@@ -1,6 +1,8 @@
 # Sobre mí :)
 
 ![](https://th.bing.com/th/id/OIP.hHDOCd-7ONSoOawo2SRPWQAAAA?rs=1&pid=ImgDetMain)
+
+
 Jamileth,joven programador de 19 años, que actualmente cursa su segundo año en la Universidad de la Sierra Juárez. Quien desarrolló una pasión por la programación, con el objetivo de sobresalir en este emocionante campo.<br><br>Con conocimientos básicos en C y C++, adquiridos a través de sus cursos anteriores, Jamileth está ansiosa por profundizar sus habilidades y aprender nuevos lenguajes de programación. Su curiosidad y deseo de mejorar son insaciables, lo que lo impulsa a explorar constantemente nuevas tecnologías y herramientas.<br><br>Además de sus estudios, Jamileth está muy interesado en participar en proyectos colaborativos, donde pueda aplicar lo aprendido y seguir creciendo como profesional. Si buscas un compañero entusiasta y comprometido, ¡no dudes en contactarlo! Está aquí para aprender, colaborar y aportar.<br><br>¡Gracias por revisar este perfil! :)<br>
 
 
