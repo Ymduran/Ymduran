@@ -12,7 +12,8 @@ Ansiosa por profundizar mis habilidades y aprender nuevos lenguajes de programac
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ym._duran) 
-[![LinkedIn]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ym._duran](https://www.linkedin.com/in/lourdes-jamileth-dur%C3%A1n-breceda-a59681404/)) 
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/lourdes-jamileth-dur%C3%A1n-breceda-a59681404/)
+
 
 
 
