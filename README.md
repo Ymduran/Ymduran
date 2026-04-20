@@ -1,6 +1,7 @@
 # ¡Hola! Soy Jamileth 👋
+Estudiante de Ingeniería en Informática en la Universidad de la Sierra Juárez (6to Semestre). Obtuve el Título de Técnico en Programación en el Centro de Bachillerato Tecnológico Industrian y de Servicio No 31. en donde desarrollé una pasión por la programación, con el objetivo de sobresalir en este emocionante campo.<br><br>Con conocimientos básicos en C y C++, Python, Java  adquiridos a través de mis cursos anteriores, participé en proyectos de diseño web. Apasionada en el desarrollo de software, la administración de sistemas Linux y la resolución de problemas a través de la tecnología.
+Ansiosa por profundizar mis habilidades y aprender nuevos lenguajes de programación.<br><br>Además de mis estudios, estoy muy interesada en participar en proyectos colaborativos, donde pueda aplicar lo aprendido y seguir creciendo como profesional. Si buscas un compañero entusiasta y comprometido, ¡no dudes en contactarme! Estoy aquí para aprender, colaborar y aportar.<br><br>¡Gracias por revisar este perfil! :)<br>
 
-Estudiante de Ingeniería en Informática en la Universidad de la Sierra Juárez (6to Semestre). Me apasiona el desarrollo de software, la administración de sistemas Linux y la resolución de problemas a través de la tecnología.
 
 ### Sobre mí
 - **Proyecto Actual:** Desarrollando **SAGA** (Sistema Automatizado de Gestión de Asistencias) utilizando HTML, Bootstrap y MySQL.
@@ -11,6 +12,7 @@ Estudiante de Ingeniería en Informática en la Universidad de la Sierra Juárez
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ym._duran) 
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
