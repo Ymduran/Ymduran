@@ -1,9 +1,12 @@
-# Sobre mí :)
+# ¡Hola! Soy Jamileth 👋
 
-![](https://th.bing.com/th/id/OIP.hHDOCd-7ONSoOawo2SRPWQAAAA?rs=1&pid=ImgDetMain)
+Estudiante de Ingeniería en Informática en la Universidad de la Sierra Juárez (6to Semestre). Me apasiona el desarrollo de software, la administración de sistemas Linux y la resolución de problemas a través de la tecnología.
 
-
-Jamileth, joven programador de 19 años, que actualmente cursa su segundo año en la Universidad de la Sierra Juárez. Obtuvo el Título de Técnico en Programación en el Centro de Bachillerato Tecnológico Industrial y de Servicios No 31. En donde desarrolló una pasión por la programación, con el objetivo de sobresalir en este emocionante campo.<br><br>Con conocimientos básicos en C y C++,  adquiridos a través de sus cursos anteriores, participó en proyectos de diseño web. Jamileth está ansiosa por profundizar sus habilidades y aprender nuevos lenguajes de programación. Su curiosidad y deseo de mejorar son insaciables, lo que lo impulsa a explorar constantemente nuevas tecnologías y herramientas.<br><br>Además de sus estudios, Jamileth está muy interesado en participar en proyectos colaborativos, donde pueda aplicar lo aprendido y seguir creciendo como profesional. Si buscas un compañero entusiasta y comprometido, ¡no dudes en contactarlo! Está aquí para aprender, colaborar y aportar.<br><br>¡Gracias por revisar este perfil! :)<br>
+### Sobre mí
+- **Proyecto Actual:** Desarrollando **SAGA** (Sistema Automatizado de Gestión de Asistencias) utilizando HTML, Bootstrap y MySQL.
+- **Linux Enthusiast:** Experiencia en administración de sistemas, gestión de particiones y configuración de entornos dual-boot.
+- **Version Control:** Manejo fluido de Git y GitHub para la gestión de repositorios y flujos de trabajo colaborativos.
+- **Idiomas:** Estudiante de Alemán (usando técnica de *laddering* con Inglés).
 
 
 ## 🌐 Socials:
@@ -11,6 +14,11 @@ Jamileth, joven programador de 19 años, que actualmente cursa su segundo año e
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
+- **Lenguajes:** C, C++, SQL, HTML5, CSS3.
+- **Herramientas:** Visual Studio Code, MySQL Workbench, SmartGit, Minicom.
+- **Sistemas:** Administración de servidores Linux y entornos Windows.
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ymduran&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ymduran&theme=midnight-purple&hide_border=true)<br/>
